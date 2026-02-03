@@ -15,7 +15,7 @@ J’aide des équipes produit et des agences à **livrer plus vite** et **plus p
 
 ---
 
-## ✅ Offres (simples et claires)
+## ✅ Offres
 
 ### 1) Tech Lead / Modernisation Front (Vue/React)
 Pour les équipes qui ont besoin de :
@@ -37,7 +37,7 @@ Tracking, instrumentation, dashboards, automation, intégrations CRM (approche �
 
 ---
 
-## 🧩 Open-source (sélection)
+## 🧩 Open-source
 
 - **Vui** — UI / composants / patterns (Vue)  
   👉 https://github.com/e-xode/vui
@@ -47,7 +47,7 @@ Tracking, instrumentation, dashboards, automation, intégrations CRM (approche �
 
 ---
 
-## 🧱 Stack (au quotidien)
+## 🧱 Stack
 
 - **Langages** : JavaScript, TypeScript
 - **Front** : Vue.js, React, Angular
@@ -73,13 +73,6 @@ Tracking, instrumentation, dashboards, automation, intégrations CRM (approche �
 - 🔗 LinkedIn : https://linkedin.com/in/christophe-bragard
 
 Dis-moi ton contexte (stack, équipe, enjeux perf/SSR/dette/delivery) et je te propose un plan d’action.
-
----
-
-## 📊 GitHub (optionnel)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cbragard&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbragard&layout=compact)
 
 ---
 
