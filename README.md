@@ -1,7 +1,7 @@
 # 👋 Christophe Bragard — Tech Lead Fullstack JavaScript (Remote)
 
 J’aide des équipes produit et des agences à **livrer plus vite** et **plus proprement** : architecture front, **SSR/performance**, qualité, DX, coaching et delivery.  
-**Remote only** (depuis 2009) — fuseau **UTC+7** (Cambodge) — FR/EN.
+Indépendant depuis 2009, à distance — fuseau **UTC+7** (Cambodge) — FR/EN.
 
 - 🔧 Tech Lead / Fullstack JS : **Vue / React / Node**
 - ⚡ Spécialités : **SSR**, performance web, refacto, migration, architecture front
@@ -10,7 +10,7 @@ J’aide des équipes produit et des agences à **livrer plus vite** et **plus p
 - 🎯 Option : **Growth Engineering** (tracking, analytics, dashboards, automation)
 
 ➡️ Site : https://www.e-xode.net  
-➡️ LinkedIn : https://linkedin.com/in/christophe-bragard  
+➡️ LinkedIn : https://www.linkedin.com/in/christophebragard  
 ➡️ GitHub : https://github.com/cbragard
 
 ---
@@ -38,6 +38,9 @@ Tracking, instrumentation, dashboards, automation, intégrations CRM (approche �
 ---
 
 ## 🧩 Open-source
+
+- **deadweight** — audit de la configuration Claude Code d'un projet : CLAUDE.md, skills, sous-agents, hooks, settings, MCP  
+  👉 https://github.com/e-xode/deadweight
 
 - **Vui** — UI / composants / patterns (Vue)  
   👉 https://github.com/e-xode/vui
@@ -69,11 +72,11 @@ Tracking, instrumentation, dashboards, automation, intégrations CRM (approche �
 
 ## 📣 Tu veux qu’on échange ?
 
-- 💬 Le plus simple : https://www.e-xode.net/contact  
-- 🔗 LinkedIn : https://linkedin.com/in/christophe-bragard
+- 💬 Le plus simple : https://www.e-xode.net/fr/contact  
+- 🔗 LinkedIn : https://www.linkedin.com/in/christophebragard
 
 Dis-moi ton contexte (stack, équipe, enjeux perf/SSR/dette/delivery) et je te propose un plan d’action.
 
 ---
 
-<sub>Remote only — FR/EN — Tech Lead Fullstack JavaScript — SSR / Performance / Delivery</sub>
+<sub>À distance — FR/EN — Tech Lead Fullstack JavaScript — SSR / Performance / Delivery</sub>
